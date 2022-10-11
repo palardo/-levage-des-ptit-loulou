@@ -2,3 +2,15 @@ body{
     background: url(neige.jpg) ;
     background-size: cover;
 }
+li {
+    display: inline;
+    margin-left: 50%;  
+
+    
+    
+}
+.text {
+    font-family: 'Italianno', cursive;
+    font-family: 'Maitree', serif;
+    font-family: 'Rubik Dirt', cursive;
+}
